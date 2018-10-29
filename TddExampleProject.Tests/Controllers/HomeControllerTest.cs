@@ -1,7 +1,6 @@
 ﻿using System.Web.Mvc;
 using NUnit.Framework;
 using TddExampleProject.Controllers;
-using Assert = Microsoft.VisualStudio.TestTools.UnitTesting.Assert;
 
 namespace TddExampleProject.Tests.Controllers
 {
